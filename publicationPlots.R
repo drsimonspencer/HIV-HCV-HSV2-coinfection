@@ -1,5 +1,5 @@
 #
-# This file uses the output of hiv.R to produce figure 4 (and SI equivalents)
+# This file uses the output of hiv.R to produce figures 4-7.
 #
 filename<-"blackmale"
 #filename<-"blackfemale"
